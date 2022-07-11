@@ -1,9 +1,5 @@
 import React, { useState } from "react";
 import { Container, Row, Col, Accordion, AccordionHeader, AccordionItem, AccordionBody } from "reactstrap";
-import Image from "next/image";
-import SectionSubtitle from "./SectionSubtitle";
-import network from "../../public/images/Connected world.png";
-import Slider from "react-slick";
 import classes from "../../styles/experience.module.css";
 
 const Experience = () => {
