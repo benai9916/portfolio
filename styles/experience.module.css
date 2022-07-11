@@ -1,0 +1,26 @@
+.experience {
+
+}
+.experience__accord__itm {
+  background-color: #0e1630;
+}
+.experience__heading {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.experience__accord__heading button {
+  padding: 30px;
+  font-size: 20px;
+}
+
+.experience__accord__body > * {
+  background: #0e1630;
+} 
+.experience__accord__body ul {
+  background: #0e1630;
+}
+
+.experience__accord__body li {
+  background: #0e1630;
+  color: #808dad;
+}
