@@ -1,11 +1,11 @@
 const portfolio = [
   {
     id: "01",
-    title: "Lucidity website",
+    title: "Listen2It sass website",
     img: "/images/one.png",
     category: "Frontend",
-    keyword: ["Web", "UI-UX", 'React'],
-    liveUrl: "https://www.lucidity.cloud/",
+    keyword: ["Webflow", "UI-UX", 'sass'],
+    liveUrl: "https://listen2it.webflow.io/",
   },
 
   {
@@ -15,15 +15,6 @@ const portfolio = [
     category: "Frontend",
     keyword: ["Web", "Webflow", "UI-UX"],
     liveUrl: "https://cowork-zone.webflow.io/",
-  },
-
-  {
-    id: "03",
-    title: "Lucidity Blog",
-    img: "/images/three.png",
-    category: "Frontend",
-    keyword: ["Blog", "Webflow", "UI-UX"],
-    liveUrl: "https://lucidity-blog.webflow.io/",
   },
 
   {
@@ -54,12 +45,21 @@ const portfolio = [
   },
 
   {
+    id: "03",
+    title: "Landing page",
+    img: "/images/eleven.png",
+    category: "Frontend",
+    keyword: ["Web", "React", "UI-UX"],
+    liveUrl: "https://loch-landing.vercel.app",
+  },
+
+  {
     id: "07",
-    title: "Task Reminder",
+    title: "Book Fair",
     img: "/images/seven.png",
     category: "Full stack",
     keyword: ["Web", "Web App", "UI-UX"],
-    liveUrl: "https://reemind-webapp.herokuapp.com/signin",
+    liveUrl: "https://full-stack-helptab-frontend.vercel.app",
   },
 
   {
